@@ -1,0 +1,19 @@
+#footer {
+    text-align: center;
+    font-family: sans-serif;
+    color: whitesmoke;
+    width: 100%;
+    bottom: 0;
+    position:fixed;
+}
+
+#content {
+    width: 1180px;
+    min-height: 100%;
+    margin: auto;
+    position: relative;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: -202px;
+    padding-right: 50px;
+}
